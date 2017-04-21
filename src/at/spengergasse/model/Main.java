@@ -17,6 +17,7 @@ package at.spengergasse.model;
 			window.setMinWidth(300);
 			Label label = new Label();
 			label.setText(message);
+			//HEY ICH BINS DA DOMASCH
 			
 			Button continueButton = new Button ("Continue");
 			Button cancelButton = new Button ("Cancel");
